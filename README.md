@@ -1,4 +1,4 @@
-# FMCWCalculator
+# FMCW Calculator
 A simple Python tool for calculating between basic FMCW radar parameters
 
 # Screenshot
